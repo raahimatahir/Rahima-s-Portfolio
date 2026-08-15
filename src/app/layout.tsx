@@ -7,7 +7,7 @@ import AmbientGlow from "@/components/AmbientGlow";
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 
 export const metadata: Metadata = {
-  title: "Creative Developer Portfolio",
+  title: "Rahima Tahir | Portfolio",
   description: "High-end Scrollytelling Portfolio",
 };
 
